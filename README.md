@@ -20,6 +20,5 @@ Ao longo da minha formação prática, desenvolvi diversos projetos, incluindo:
 
 <a href="https://jvitor444.github.io/Sorteador/">Sorteador</a>
 
-<a href="https://github.com/JVitor444"> Outros</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JVITOR444&show_icons=true&theme=radical)
